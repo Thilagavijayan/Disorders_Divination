@@ -5,11 +5,11 @@ from streamlit_option_menu import option_menu
 
 # loading the saved models
 
-diabetes_model = pickle.load(open('C:/Users/Thilaga/Downloads/Disorders-Divination-master/Models/saved models/diabetes_model.sav','rb'))
+diabetes_model = pickle.load(open('Models/saved models/diabetes_model.sav','rb'))
 
-heart_disease_model = pickle.load(open('C:/Users/Thilaga/Downloads/Disorders-Divination-master/Models/saved models/heart_disease_model.sav','rb'))
+heart_disease_model = pickle.load(open('Models/saved models/heart_disease_model.sav','rb'))
 
-parkinsons_model = pickle.load(open('C:/Users/Thilaga/Downloads/Disorders-Divination-master/Models/saved models/parkinsons_model.sav', 'rb'))
+parkinsons_model = pickle.load(open('Models/saved models/parkinsons_model.sav', 'rb'))
 
 
 
