@@ -25,6 +25,7 @@
 </div>
 
 ## Overview  
+Human healthcare is one of society's most important issues. It is looking for the best one and a strong disease diagnosis so that they may obtain the care they require as soon as feasible. Following innovative techniques challenges these disciplines, pushing them beyond their customary boundaries. Because of the sheer quantity of new approaches, it is feasible to present a comprehensive overview while avoiding specific elements. To that purpose, we propose a thorough examination of human disorders linked to machine learning. This study focuses on existing machine learning growth methodologies used to the diagnosis of human disorders in the medical profession to identify fascinating patterns, create unimportant forecasts, and aid decision-making.
  
 
 ## Problem Definition
