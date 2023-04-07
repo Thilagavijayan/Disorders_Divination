@@ -29,6 +29,7 @@ Human healthcare is one of society's most important issues. It is looking for th
  
 
 ## Problem Definition
+Following innovative techniques challenges these disciplines, pushing them beyond their traditional boundaries. Because of the sheer amount of new approaches available, it is feasible to present a comprehensive overview while avoiding specific elements.Through this project,You can predict whether the parkinson,diabetes and Heart diseases is present or not
 
 
 ## Installation
